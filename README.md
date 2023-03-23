@@ -1,4 +1,5 @@
 # markdownWikiPages
 
-Link 1
-Link 2
+- Link 1
+
+- Link 2
