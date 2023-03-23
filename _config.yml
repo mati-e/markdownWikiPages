@@ -4,7 +4,13 @@ relative_links:
   enabled: true
   collections: true
 include:
-  - link1.md
+  - CONTRIBUTING.md
   - README.md
+  - LICENSE.md
+  - link1.md
   - link2.md
-theme: Minimal
+  - CONTRIBUTING.md
+  - ISSUE_TEMPLATE.md
+  - PULL_REQUEST_TEMPLATE.md
+
+theme: jekyll-theme-tactile
