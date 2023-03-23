@@ -6,5 +6,5 @@ relative_links:
 include:
   - link1.md
   - README.md
-  - link1.md
+  - link2.md
 theme: Minimal
