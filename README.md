@@ -1,5 +1,5 @@
 # markdownWikiPages
 
-* [Link 1](./recipes/link1.md)
+* [Link 1](./markdownWikiPages/link1.md)
 
-* [Link 2](./recipes/link2.md)
+* [Link 2](./markdownWikiPages/link2.md)
